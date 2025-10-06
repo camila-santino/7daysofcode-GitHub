@@ -1,5 +1,8 @@
 ![imagem em desenho à mão, em cores pastéis, de uma parede com um calendário de parede, uma grade de avisos e um cordãode fotos](docs/images/capa.jpeg)
 <h1 align="center">#7daysofcode-GitHub</h1>
+
+![Static Badge](https://img.shields.io/badge/Em%20Desenvolvimento-status7days?style=plastic&logo=githubactions&logoSize=auto&label=Status&labelColor=white&color=blue)
+
 7 dias de desafios em Git e GitHub da Alura com Fabrício Carraro (Product Owner e Instrutor na Alura).
 
 ## Descrição
