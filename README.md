@@ -97,9 +97,20 @@ simular um conflito entre o Vs Code e o GitHub.
 ### Conhecimentos em desenvolvimento:
 - Não relacionados diretamente ao desafio: Issues, Projects e Milestones.
 
----
- #7DaysOfCode
- #feedback7DoC 
+## Dia 7
+Publicação do site no Github Pages.
+
+### Finalizações: 
+- Site publicado em: [Filmes para #7dayrepository](https://camila-santino.github.io/7daysofcode-GitHub/)
+- Atualização final do Readme.
+- Transferência de Issues não finalizadas e finalização de Projeto.
+- Fechamento de tudo.
+
+### Conhecimentos em desenvolvimento:
+- GitHub Actions
+- GitHub Pages
+- Jekyll
+
 ---
  #7DaysOfCode
  #feedback7DoC 
