@@ -74,6 +74,32 @@ Uso prático da IDE do alterações de códigos e realização de ***commits*** 
 - Uso do [GitHub Copilot](https://github.com/github-copilot)
 - Estudos sobre erros e bugs (ver [Issue #23](https://github.com/camila-santino/7daysofcode-GitHub/issues/23))
 
+## Dia 5
+Criação de ***commits*** com quebra de código para revertê-las.
+
+### Finalizações: 
+- Quebra de código em [index.html](docs/index.html)
+- Commit & Push direto no main
+- Reversão de commit.
+
+### Conhecimentos em desenvolvimento:
+- SHA de commits;
+- Aprimoramento de linhas de código;
+- Alternativas ao Git.
+
+## Dia 6
+simular um conflito entre o Vs Code e o GitHub. 
+
+### Finalizações: 
+- 1a tentativa deu certo mas não creio que pelo motivo dado pelo desafio.
+- 2a tentativa não gerou erro algum.
+
+### Conhecimentos em desenvolvimento:
+- Não relacionados diretamente ao desafio: Issues, Projects e Milestones.
+
+---
+ #7DaysOfCode
+ #feedback7DoC 
 ---
  #7DaysOfCode
  #feedback7DoC 
